@@ -1,0 +1,16 @@
+{
+  "apiID": "devopstestpre2__function_aadglamlcicgi__c",
+  "apiName": "test2__c",
+  "label": {
+    "zh_CN": "test2",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
